@@ -10,7 +10,7 @@
                     Example
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarTenencia">
-                    <a class="dropdown-item" href="<?php echo ROOT_PATH.'modulo/ModuloExterno'?>">cobro </a>
+                    <a class="dropdown-item" href="modulo/ModuloExterno">cobro </a>
                 </div>
             </li>
             <li class="nav-item dropdown">
